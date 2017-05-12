@@ -1,1 +1,1 @@
-InventoryManager
+Simple inventory management program written in java.
